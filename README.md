@@ -13,6 +13,6 @@
  
 ## 相关链接
 
-[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE) © P3TERX
-[lede](https://github.com/coolsnowwolf/lede) © coolsnowwolf
-[kenzok8](https://github.com/kenzok8/openwrt-packages) © kenzok8
+  - [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE) © P3TERX
+  - [lede](https://github.com/coolsnowwolf/lede) © coolsnowwolf
+  - [kenzok8](https://github.com/kenzok8/openwrt-packages) © kenzok8
